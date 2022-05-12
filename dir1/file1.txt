@@ -2,6 +2,5 @@ file1
 
 localseondary_1 commit 1
 localseondary_1 commit 2
-localmain commit 3
-localmain commit 4
-
+localseondary_1 commit 3
+localseondary_1 commit 4
